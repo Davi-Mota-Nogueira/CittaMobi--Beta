@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/citta_mobi/BuildConfig.java
+ com.example.citta_mobi.BuildConfig
